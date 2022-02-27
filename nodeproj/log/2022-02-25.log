@@ -1,0 +1,78 @@
+2022-02-25 09:11:55.942[info] app start
+2022-02-25 09:11:56.442[info] DB connection success
+2022-02-25 09:11:56.459[info] Sequelize sync success
+2022-02-25 09:13:17.581[info] app start
+2022-02-25 09:13:17.840[info] DB connection success
+2022-02-25 09:13:17.854[info] Sequelize sync success
+2022-02-25 09:14:54.763[info] (board.reg.params) {"name":"공모전","code":"Contest"}
+2022-02-25 09:14:54.860[debug] (boardService.reg) {"id":2,"name":"공모전","code":"Contest","description":null,"updatedAt":"2022-02-25T00:14:54.768Z","createdAt":"2022-02-25T00:14:54.768Z","deletedAt":null}
+2022-02-25 09:14:54.862[info] (department.reg.result) {"id":2,"name":"공모전","code":"Contest","description":null,"updatedAt":"2022-02-25T00:14:54.768Z","createdAt":"2022-02-25T00:14:54.768Z","deletedAt":null}
+2022-02-25 09:19:59.925[info] app start
+2022-02-25 09:20:00.188[info] DB connection success
+2022-02-25 09:20:00.204[info] Sequelize sync success
+2022-02-25 09:20:53.948[info] app start
+2022-02-25 09:20:54.196[info] DB connection success
+2022-02-25 09:20:54.212[info] Sequelize sync success
+2022-02-25 09:28:26.232[info] app start
+2022-02-25 09:28:26.488[info] DB connection success
+2022-02-25 09:28:26.503[info] Sequelize sync success
+2022-02-25 09:30:25.982[info] app start
+2022-02-25 09:30:26.250[info] DB connection success
+2022-02-25 09:30:26.266[info] Sequelize sync success
+2022-02-25 09:31:10.553[info] app start
+2022-02-25 09:31:10.813[info] DB connection success
+2022-02-25 09:31:10.830[info] Sequelize sync success
+2022-02-25 09:31:41.029[info] app start
+2022-02-25 09:31:41.377[info] DB connection success
+2022-02-25 09:31:41.392[info] Sequelize sync success
+2022-02-25 09:39:04.341[info] app start
+2022-02-25 09:39:04.612[info] DB connection success
+2022-02-25 09:39:04.682[info] Sequelize sync success
+2022-02-25 13:17:34.071[info] app start
+2022-02-25 13:17:34.390[info] DB connection success
+2022-02-25 13:17:34.411[info] Sequelize sync success
+2022-02-25 13:20:52.305[info] app start
+2022-02-25 13:20:52.527[info] DB connection success
+2022-02-25 13:20:52.556[info] Sequelize sync success
+2022-02-25 13:34:39.711[info] app start
+2022-02-25 13:34:40.110[info] DB connection success
+2022-02-25 13:34:40.128[info] Sequelize sync success
+2022-02-25 13:36:44.424[info] app start
+2022-02-25 13:36:44.700[info] DB connection success
+2022-02-25 13:36:44.719[info] Sequelize sync success
+2022-02-25 13:37:54.806[info] app start
+2022-02-25 13:37:55.040[info] DB connection success
+2022-02-25 13:37:55.057[info] Sequelize sync success
+2022-02-25 13:38:02.067[info] app start
+2022-02-25 13:38:02.332[info] DB connection success
+2022-02-25 13:38:02.350[info] Sequelize sync success
+2022-02-25 13:39:49.373[info] app start
+2022-02-25 13:39:49.715[info] DB connection success
+2022-02-25 13:39:49.731[info] Sequelize sync success
+2022-02-25 13:44:20.717[info] app start
+2022-02-25 13:44:21.070[info] DB connection success
+2022-02-25 13:44:21.086[info] Sequelize sync success
+2022-02-25 13:44:45.080[info] app start
+2022-02-25 13:44:45.353[info] DB connection success
+2022-02-25 13:44:45.368[info] Sequelize sync success
+2022-02-25 13:44:58.841[info] app start
+2022-02-25 13:44:59.332[info] DB connection success
+2022-02-25 13:44:59.346[info] Sequelize sync success
+2022-02-25 13:51:18.656[info] app start
+2022-02-25 13:51:18.909[info] DB connection success
+2022-02-25 13:51:18.927[info] Sequelize sync success
+2022-02-25 13:51:21.757[info] app start
+2022-02-25 13:51:22.163[info] DB connection success
+2022-02-25 13:51:22.182[info] Sequelize sync success
+2022-02-25 13:53:57.576[info] app start
+2022-02-25 13:53:57.814[info] DB connection success
+2022-02-25 13:53:57.829[info] Sequelize sync success
+2022-02-25 13:54:04.164[info] app start
+2022-02-25 13:54:04.401[info] DB connection success
+2022-02-25 13:54:04.417[info] Sequelize sync success
+2022-02-25 13:54:07.125[info] app start
+2022-02-25 13:54:07.457[info] DB connection success
+2022-02-25 13:54:07.471[info] Sequelize sync success
+2022-02-25 16:56:04.988[info] app start
+2022-02-25 16:56:05.347[info] DB connection success
+2022-02-25 16:56:05.365[info] Sequelize sync success

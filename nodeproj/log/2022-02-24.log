@@ -1,1 +1,13 @@
 2022-02-24 16:15:08.210[info] app start
+2022-02-24 20:37:01.879[info] app start
+2022-02-24 20:37:02.327[info] DB connection success
+2022-02-24 20:37:02.365[info] Sequelize sync success
+2022-02-24 20:40:37.141[info] app start
+2022-02-24 20:40:37.410[info] DB connection success
+2022-02-24 20:40:37.479[info] Sequelize sync success
+2022-02-24 20:42:23.360[info] app start
+2022-02-24 20:42:23.610[info] DB connection success
+2022-02-24 20:42:23.628[info] Sequelize sync success
+2022-02-24 20:42:34.347[info] (board.reg.params) {"name":"공모전","code":"Competition"}
+2022-02-24 20:42:34.546[debug] (boardService.reg) {"id":1,"name":"공모전","code":"Competition","description":null,"updatedAt":"2022-02-24T11:42:34.351Z","createdAt":"2022-02-24T11:42:34.351Z","deletedAt":null}
+2022-02-24 20:42:34.548[info] (department.reg.result) {"id":1,"name":"공모전","code":"Competition","description":null,"updatedAt":"2022-02-24T11:42:34.351Z","createdAt":"2022-02-24T11:42:34.351Z","deletedAt":null}
